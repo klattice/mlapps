@@ -1,2 +1,3 @@
+
 # mlapps
-ML applications
+Repository for ML assignments
