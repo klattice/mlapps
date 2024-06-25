@@ -1,4 +1,4 @@
-The notebook used_car_prediction.ipynb in this folder uses CRISP-DM methodology to 
+The notebook used_car_prediction.ipynb (https://github.com/klattice/mlapps/blob/main/module11/used_car_prediction.ipynb) uses CRISP-DM methodology to 
 answer the question of what drives the prices of used car? It summarizes with a report
 to used car dealers about the findings and the action items to take.
 
