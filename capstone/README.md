@@ -1,6 +1,6 @@
 The notebook 
 
-   https://
+   https://github.com/klattice/mlapps/blob/main/capstone/covid_fact_or_fake_nlp.ipynb
 
   has the NLP classifier model evaluation for 'Covid-19 Fake or Fact news' analysis
   Markdowns with 'Findings:" in the notebook summarizes key points.
